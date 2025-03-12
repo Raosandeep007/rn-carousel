@@ -26,7 +26,7 @@
 
 ## Any trade-offs or challenges faced
 
-- The CTAs on the page should change theme on each card. However, a fixed theme is used for every card (not able find way to determine the theme based on item contrast).
+- The CTAs on the page should change theme on each card. However, a card theme is used for every card (To do this we can use image/video processing backend server to get theme).
 
 - Animate text only first time (Animating whenever it's in view).
 
