@@ -494,9 +494,9 @@ const VerticalCarousel = () => {
         showsVerticalScrollIndicator={false}
         snapToInterval={height}
         decelerationRate="fast"
-        windowSize={2}
-        initialNumToRender={1}
-        maxToRenderPerBatch={2}
+        windowSize={3}
+        initialNumToRender={2}
+        maxToRenderPerBatch={3}
         onViewableItemsChanged={onViewableItemsChanged}
         viewabilityConfig={{
           itemVisiblePercentThreshold: 50,
